@@ -1,0 +1,7 @@
+1-Background oluþtur.
+2-2/3 oranýnda ekranda ufuk çizgisi oluþtur.
+3-Ufuk çizgisinin altýný beyaz, üstünü siyah yap.
+4-Yuvarlak bir hedef oluþtur.
+5-Hedefi hareket ettir.
+6-Click yapýldýðýnda hedefi yok et.
+7-Yeniden doðduðunda Random bir noktadan baþlat.

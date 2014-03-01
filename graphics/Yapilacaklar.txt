@@ -1,0 +1,13 @@
+- Icon tasarla ( üst köþede göz, lazerle alt köþedeki ördeði vursun)
+
+- Basit oyunlarda nasýl renkler kullanýlmýþ araþtýr, çizgilerine bak.
+
+- Ördeði modelle
+
+- Silahlarý modelle
+
+- Köpek modelle (?)
+
+- Arka plan ve diðer oyun öðelerini modelle (aðaç, çalýlýklar vs) 
+
+- Oyun giriþinde kuþ ekraný psiletecek
